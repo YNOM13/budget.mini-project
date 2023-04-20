@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Transaction component should how transaction 1`] = `
+<div
+  className="flex justify-center"
+>
+  <div
+    className="basis-[500px] bg-red-400 text-black p-2 m-1 rounded flex items-center flex-wrap"
+  >
+    <span
+      className="bg-white p-1 rounded m-2"
+    >
+      01.01.2023
+    </span>
+     spend
+    <span
+      className="bg-red-600 p-1 rounded m-2"
+    >
+      0
+      $,
+    </span>
+    on 
+    <span
+      className="bg-white p-1 rounded m-2"
+    >
+      test
+    </span>
+  </div>
+</div>
+`;
